@@ -208,13 +208,13 @@ MESSAGE_TAGS = {
 }
 
 EMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.sparkpostmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'SMTP_Injection'
-EMAIL_HOST_PASSWORD = 'febde2f51f6e9ea454f67766425b8cd313a4d763'
+EMAIL_HOST = 
+EMAIL_PORT = 
+EMAIL_HOST_USER = 
+EMAIL_HOST_PASSWORD = 
 EMAIL_USE_TLS = True
-DEFAULT_FROM_EMAIL = 'Payglen <support@mail.cvacademy.co.za>'
-DEFAULT_FROM_ADMIN = 'crn96m@gmail.com'
+DEFAULT_FROM_EMAIL = 
+DEFAULT_FROM_ADMIN = 
 
 
 
